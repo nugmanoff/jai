@@ -1,4 +1,4 @@
-package kz.nugmanoff.jai;
+package core;
 
 public enum TokenType {
     // Single-character tokens.

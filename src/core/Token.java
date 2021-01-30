@@ -1,4 +1,4 @@
-package kz.nugmanoff.jai;
+package core;
 
 public class Token {
     final TokenType type;
